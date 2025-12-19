@@ -10,3 +10,6 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+echo "Backend/model.h5" >> .gitignore
+
